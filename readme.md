@@ -1,4 +1,4 @@
-1.  Battleships project is a .Net console application developed using C#.
+1.  Battleships is a .Net console application developed using C#.
 2.  The code is developed in Visual Studio 2019.
 3.  This is a single user game.
 4.  This game consists of 1 battleship (5 squares) and 2 destroyers (4 squares).
